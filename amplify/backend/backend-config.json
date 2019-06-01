@@ -1,0 +1,14 @@
+{
+	"auth": {
+		"utrustbf25a650": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation"
+		}
+	},
+	"storage": {
+		"utrustdb": {
+			"service": "DynamoDB",
+			"providerPlugin": "awscloudformation"
+		}
+	}
+}

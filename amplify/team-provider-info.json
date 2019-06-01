@@ -1,0 +1,21 @@
+{
+    "utrustenv": {
+        "awscloudformation": {
+            "AuthRoleName": "utrust-utrustenv-20190601200952-authRole",
+            "UnauthRoleArn": "arn:aws:iam::527144461719:role/utrust-utrustenv-20190601200952-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::527144461719:role/utrust-utrustenv-20190601200952-authRole",
+            "Region": "ap-northeast-2",
+            "DeploymentBucketName": "utrust-utrustenv-20190601200952-deployment",
+            "UnauthRoleName": "utrust-utrustenv-20190601200952-unauthRole",
+            "StackName": "utrust-utrustenv-20190601200952",
+            "StackId": "arn:aws:cloudformation:ap-northeast-2:527144461719:stack/utrust-utrustenv-20190601200952/c7eb91c0-845d-11e9-bd5e-02be54028522"
+        },
+        "categories": {
+            "auth": {
+                "utrustbf25a650": {
+                    "hostedUIProviderCreds": "[]"
+                }
+            }
+        }
+    }
+}
