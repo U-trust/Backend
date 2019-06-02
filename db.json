@@ -1,0 +1,88 @@
+[
+    {
+        "name": "이상훈",
+        "mail": "lsh00124@naver.com",
+        "password:": "1234",
+        "sponsers": [
+            "google",
+            "facebook"
+        ],
+        "statuses": [
+            {
+                "sponsor": "google",
+                "status": "on"
+            },
+            {
+                "sponsor": "facebook",
+                "status": "off"
+            }
+        ],
+        "image": "http://**.png",
+        "phone": "010-2999-5976",
+        "selfIntroduction": "안녕하세요",
+        "eduLevel": "1",
+        "creers": [
+            "3년 **회사 경력직"
+        ],
+        "awards": [
+            "2019 해커톤 우승"
+        ],
+        "educations": [
+            "** 수료"
+        ],
+        "certifications": [
+            "** 자격증"
+        ],
+        "links": "**.io"
+    },
+    {
+        "name": "김성래",
+        "mail": "kimsr@naver.com",
+        "password:": "1234",
+        "sponsers": [
+            "google",
+            "facebook"
+        ],
+        "statuses": [
+            {
+                "sponsor": "google",
+                "status": "on"
+            },
+            {
+                "sponsor": "facebook",
+                "status": "off"
+            }
+        ],
+        "image": "http://**.png",
+        "phone": "010-2999-5976",
+        "selfIntroduction": "안녕하세요",
+        "eduLevel": "1",
+        "creers": [
+            "3년 **회사 경력직"
+        ],
+        "awards": [
+            "2019 해커톤 우승"
+        ],
+        "educations": [
+            "** 수료"
+        ],
+        "certifications": [
+            "** 자격증"
+        ],
+        "links": "**.io"
+    },
+    {
+        "name": "google",
+        "applicants": [
+            "이상훈",
+            "김성래"
+        ],
+        "phone": "042-1234-2312",
+        "introduction": "회사입니다.",
+        "predictPrice": "200",
+        "interesteds": [
+            "test",
+            "test2"
+        ]
+    }
+]
